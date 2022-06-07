@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nm71xxig72vvuh4x?svg=true)](https://ci.appveyor.com/project/Soulmaers/ajs4-2)
